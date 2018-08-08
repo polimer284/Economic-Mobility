@@ -8,4 +8,4 @@ Used R Studio & Markdown.
 
 Project done July.2018
 
-Too see the html file, plese go to url : http://htmlpreview.github.io/?https://github.com/polimer284/RedWine-Quality-Analysis/blob/master/Red_Wine_Quality_Analysis__Kyung_Yoon.html
+Too see the html file, please go to url : http://htmlpreview.github.io/?https://github.com/polimer284/RedWine-Quality-Analysis/blob/master/Red_Wine_Quality_Analysis__Kyung_Yoon.html
