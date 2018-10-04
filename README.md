@@ -1,11 +1,3 @@
-# RedWine_Quality_Analysis
+# Economic mobility across generations in USA
 
-Too see the html file, please go to url : http://htmlpreview.github.io/?https://github.com/polimer284/RedWine-Quality-Analysis/blob/master/Red_Wine_Quality_Analysis__Kyung_Yoon.html
-
-Anwsering the question 'what defines wine qulity?' with Multiple Regression Analysis.
-Used R Studio & Markdown.
-
-Project done July.2018
-
-Data file url : http://www3.dsi.uminho.pt/pcortez/wine/
--> winequality-red.csv - red wine preference samples;
+Project done Sep.2018
